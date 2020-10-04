@@ -1,5 +1,15 @@
+// ini komentar 1 baris
+
+/*
+   komentar
+   banyak baris
+*/
+
 
 // fungsi utama yang pertama dipanggil
 fun main() {
-    println("Hi Kevin!") // menampilkan teks dasar
+
+    val name = "Kevin"   // dasar mendeklarasikan variabel
+    println("Hi!")       // menampilkan teks dasar
+    println(name)        // memanggil variabel
 }
